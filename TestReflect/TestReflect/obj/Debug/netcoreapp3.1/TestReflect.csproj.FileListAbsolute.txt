@@ -1,0 +1,13 @@
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\bin\Debug\netcoreapp3.1\TestReflect.exe
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\bin\Debug\netcoreapp3.1\TestReflect.deps.json
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\bin\Debug\netcoreapp3.1\TestReflect.runtimeconfig.json
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\bin\Debug\netcoreapp3.1\TestReflect.runtimeconfig.dev.json
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\bin\Debug\netcoreapp3.1\TestReflect.dll
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\bin\Debug\netcoreapp3.1\TestReflect.pdb
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\obj\Debug\netcoreapp3.1\TestReflect.csprojAssemblyReference.cache
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\obj\Debug\netcoreapp3.1\TestReflect.AssemblyInfoInputs.cache
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\obj\Debug\netcoreapp3.1\TestReflect.AssemblyInfo.cs
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\obj\Debug\netcoreapp3.1\TestReflect.csproj.CoreCompileInputs.cache
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\obj\Debug\netcoreapp3.1\TestReflect.dll
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\obj\Debug\netcoreapp3.1\TestReflect.pdb
+D:\GitRepo\CSharpProjects\TestReflect\TestReflect\obj\Debug\netcoreapp3.1\TestReflect.genruntimeconfig.cache
